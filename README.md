@@ -15,7 +15,7 @@
 
 Hi there! I'm Gabriel, a young entrepreneur from Bucharest, currently following a Master’s degree in E-Business, passionate about **IoT** and **Smart Home** technologies, as well as **Software Development**, **Data Security**, **Product Design**, **3D modeling and printing**, **Open-source** technologies, and **Electronics**. 
 
-Wow! There are a lot of passions...Don’t worry, there’s more. I am a professional dancer since I was a kid, and so I love to work with dynamic teams and fun people. I was born near the sea, I live in the plains, and I love hiking in the mountains.
+Wow! There are a lot of passions...Don’t worry, there’s more. I am a professional dancer since I was a kid, and so I love to work with dynamic teams and fun people, as I am highly adaptable, ambitious, and eager to learn new things. I was born near the sea, I live in the plains, and I love hiking in the mountains.
   
 ### Work ⚙
   
