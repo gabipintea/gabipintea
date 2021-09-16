@@ -13,20 +13,20 @@
   
 ### About me 😎
 
-Hi there! I'm Gabriel, a young entrepreneur from Bucharest, currently following a Master’s degree in E-Business, passionate about **IoT** and **Smart Home** technologies, as well as **Software Development**, **Data Security**, **Product Design**, **3D modeling and printing**, **Open-source** technologies and **Electronics**. 
+Hi there! I'm Gabriel, a young entrepreneur from Bucharest, currently following a Master’s degree in E-Business, passionate about **IoT** and **Smart Home** technologies, as well as **Software Development**, **Data Security**, **Product Design**, **3D modeling and printing**, **Open-source** technologies, and **Electronics**. 
 
-Wow! There are a lot of passions...Don’t worry, there’s more. I am a professional dancer since I was a kid, and so I love to work with dynamic teams and fun people. I was born at the sea, I live in the plains, and I love hiking in the mountains.
+Wow! There are a lot of passions...Don’t worry, there’s more. I am a professional dancer since I was a kid, and so I love to work with dynamic teams and fun people. I was born near the sea, I live in the plains, and I love hiking in the mountains.
   
 ### Work ⚙
   
 - 2018 -> today: Started **Picromatics - Upgrading your future**, a Smart Home Integration and IoT solutions company, providing both software and hardware solutions for Home Automation and Business Process Automation
-- 2018 -> today: Started **Codesiders - Upgrading your digital world**, an Online Marketing business, providing customer-oriented services such as: Web Dev, privacy-oriented Hosting, Graphic Design and 3D modeling, SEO and Copywriting.
-- 2015 -> today: Volunteering to an **NGO**, having a social, educational and cultural character, as Web Content Manager.
+- 2018 -> today: Started **Codesiders - Upgrading your digital world**, an Online Marketing business, providing customer-oriented services such as: Web Dev, privacy-oriented Hosting, Graphic Design, and 3D modeling, SEO, and Copywriting.
+- 2015 -> today: Volunteering to an **NGO**, having a social, educational, and cultural character, as Web Content Manager.
 
 ### Education ✒
 
 - Master degree in **E-Business** [2021 - Present] @ Bucharest University of Economic Studies - Faculty of Cybernetics, Statistics, and Economic Informatics
-- Bachelor of **Economic Sciences in Cybernetics, Statistics and Economic Informatics**, with specialization of **Economic Informatics** in English [2018 - 2021] @ Bucharest University of Economic Studies - Faculty of Cybernetics, Statistics, and Economic Informatics
+- Bachelor of **Economic Sciences in Cybernetics, Statistics and Economic Informatics**, with specialization of **Economic Informatics**, in English [2018 - 2021] @ Bucharest University of Economic Studies - Faculty of Cybernetics, Statistics, and Economic Informatics
 - Baccalaureate with **Intensive Informatics** [2011 - 2016] @ National College "Ion Luca Caragiale", Bucharest
   
 ### Skills 💪
@@ -71,7 +71,7 @@ Wow! There are a lot of passions...Don’t worry, there’s more. I am a profess
   - Amazing tech start-up, involving LoRaWAN sensors, Blockchain tech and cool Web Apps
 
 👯 I’m looking to collaborate with ...
-  - Tech enthusiats
+  - Tech enthusiasts
   - Innovators
   - Business accelerators
   
