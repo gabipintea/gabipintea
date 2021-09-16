@@ -33,11 +33,16 @@ Wow! There are a lot of passions...Don’t worry, there’s more. I am a profess
 #### Languages ####
 - Proficient in both English and German
   
-#### Software packages ####
-- Internet Of Things (IoT) and Embedded Programming
-- 3D Modeling and 3D Printing
+#### Digital skills ####
+- Internet Of Things (IoT) and Embedded Programming: Raspberry Pi, ESP8266/ESP32, Arduino
+- 3D Modeling and 3D Printing: Blender, 3DS Max
 - Networking: *Cisco CCNAv7: Introduction to Networks*
-- Adobe Photoshop/Illustrator  
+- Adobe Photoshop/Illustrator
+- Google Tools (SEO, PPC, Analytics, AdWords)
+- SEMrush, Hotjar, Ahrefs, Ryte, Yoast
+- Wordpress, WooCommerce
+- MS PowerBI
+- MS Office/Office 365
 
 #### Web Dev & UX/UI ####
 - React
@@ -60,19 +65,16 @@ Wow! There are a lot of passions...Don’t worry, there’s more. I am a profess
 - Python
 - Embedded C
 
+### What now? 🚀 ###
+🔭 I’m currently working on ...
+  - Privacy-oriented Smart Home integration solutions, based on @Home Assistant and @ESPHome
+  - Amazing tech start-up, involving LoRaWAN sensors, Blockchain tech and cool Web Apps
+
+👯 I’m looking to collaborate with ...
+  - Tech enthusiats
+  - Innovators
+  - Business accelerators
   
-
-<!--
-**gabipintea/gabipintea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Am I willing to get myself employed?
+  
+  Hell yeah! Never too busy to start a new job, especially if there are cool teammates.
