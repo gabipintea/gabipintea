@@ -25,7 +25,7 @@ Wow! There are a lot of passions...Don’t worry, there’s more. I am a profess
 
 ### Education ✒
 
-- Master degree in **E-Business** [2021 - Present] @ Bucharest University of Economic Studies - Faculty of Cybernetics, Statistics, and Economic Informatics
+- Master degree in **E-Business** [2021 - 2023] @ Bucharest University of Economic Studies - Faculty of Cybernetics, Statistics, and Economic Informatics
 - Bachelor of **Economic Sciences in Cybernetics, Statistics and Economic Informatics**, with specialization of **Economic Informatics**, in English [2018 - 2021] @ Bucharest University of Economic Studies - Faculty of Cybernetics, Statistics, and Economic Informatics
 - Baccalaureate with **Intensive Informatics** [2011 - 2016] @ National College "Ion Luca Caragiale", Bucharest
   
